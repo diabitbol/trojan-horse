@@ -1,6 +1,3 @@
-const { count } = require('console');
-const { SSL_OP_COOKIE_EXCHANGE } = require('constants');
-
 net = require('net');
 readline = require('readline').createInterface({
     input: process.stdin,
