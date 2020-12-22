@@ -15,3 +15,7 @@ if you want to use the one in C++ :
     Wait for him or her to click on it  to execute it.
     you will now be able to run shell script in the window of the server and the modifications will be applied on the computer where the client has been compiled.
 
+If you want to use the one in python/javascript : 
+    launch the server: 
+            $ node server.js
+    and when somebody will execute client.py using "$ python client.py" or by clicking on the file, you will be able to control his computer.
