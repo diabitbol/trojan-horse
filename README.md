@@ -1,5 +1,5 @@
 # trojan-horse
-This is a trajos horse I developed twice : one in C++ using SFML and one with a clent in python and the server with node.JS. I will add a video transfer from webcam feature with openCV. I may add a second server with node.js.
+trajos horse I developed twice : one in C++ using SFML and one with a clent in python and the server with node.JS. I will add a video transfer from webcam feature with openCV. I may add a second server with node.js.
 I strongly advise you to not use it for nonequal purposes
 
 if you want to use the one in C++ :
